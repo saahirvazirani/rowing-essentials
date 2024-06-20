@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rowing-essentials/static/css/main.b4bc0644.css",
+    "main.js": "/rowing-essentials/static/js/main.dbe75ae4.js",
+    "static/media/TPandRR.png": "/rowing-essentials/static/media/TPandRR.6224e822e3577eb3fe54.png",
+    "static/media/RowingCalculator.png": "/rowing-essentials/static/media/RowingCalculator.a65bc354de1b38c1e534.png",
+    "static/media/TestStrategy.png": "/rowing-essentials/static/media/TestStrategy.be70a0fe33a96205b41b.png",
+    "static/media/progress.jpg": "/rowing-essentials/static/media/progress.fb8ffd9945b551ee22c2.jpg",
+    "index.html": "/rowing-essentials/index.html",
+    "main.b4bc0644.css.map": "/rowing-essentials/static/css/main.b4bc0644.css.map",
+    "main.dbe75ae4.js.map": "/rowing-essentials/static/js/main.dbe75ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bc0644.css",
+    "static/js/main.dbe75ae4.js"
+  ]
+}
